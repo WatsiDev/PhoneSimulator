@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Producto1</string>
+    <string name="clock_app">Reloj</string>
+    <string name="phone_app">Teléfono</string>
+    <string name="calculator_app">Calculadora</string>
+    <string name="compass_app">Brújula</string>
+    <string name="scanner_app">Escaner QR</string>
+    <string name="google_search">Búsqueda de Google</string>
+    <string name="to_do_task">To-Do Task</string>
+</resources>
